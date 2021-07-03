@@ -1,0 +1,16 @@
+D:\InheritanceInCsharp\Firstconcept\bin\Debug\net5.0\FirstConcept.exe
+D:\InheritanceInCsharp\Firstconcept\bin\Debug\net5.0\FirstConcept.deps.json
+D:\InheritanceInCsharp\Firstconcept\bin\Debug\net5.0\FirstConcept.runtimeconfig.json
+D:\InheritanceInCsharp\Firstconcept\bin\Debug\net5.0\FirstConcept.runtimeconfig.dev.json
+D:\InheritanceInCsharp\Firstconcept\bin\Debug\net5.0\FirstConcept.dll
+D:\InheritanceInCsharp\Firstconcept\bin\Debug\net5.0\ref\FirstConcept.dll
+D:\InheritanceInCsharp\Firstconcept\bin\Debug\net5.0\FirstConcept.pdb
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.csproj.AssemblyReference.cache
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.AssemblyInfoInputs.cache
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.AssemblyInfo.cs
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.csproj.CoreCompileInputs.cache
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.dll
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\ref\FirstConcept.dll
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.pdb
+D:\InheritanceInCsharp\Firstconcept\obj\Debug\net5.0\FirstConcept.genruntimeconfig.cache
