@@ -4,7 +4,7 @@ namespace Inheritance
     {
         public void DirectorName()
         {
-            System.Console.WriteLine("I am director");
+            System.Console.WriteLine("I am Director");
         }
     }
 }
