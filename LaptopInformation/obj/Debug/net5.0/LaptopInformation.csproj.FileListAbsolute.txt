@@ -1,0 +1,16 @@
+D:\InheritanceInCsharp\laptopinformation\bin\Debug\net5.0\LaptopInformation.exe
+D:\InheritanceInCsharp\laptopinformation\bin\Debug\net5.0\LaptopInformation.deps.json
+D:\InheritanceInCsharp\laptopinformation\bin\Debug\net5.0\LaptopInformation.runtimeconfig.json
+D:\InheritanceInCsharp\laptopinformation\bin\Debug\net5.0\LaptopInformation.runtimeconfig.dev.json
+D:\InheritanceInCsharp\laptopinformation\bin\Debug\net5.0\LaptopInformation.dll
+D:\InheritanceInCsharp\laptopinformation\bin\Debug\net5.0\ref\LaptopInformation.dll
+D:\InheritanceInCsharp\laptopinformation\bin\Debug\net5.0\LaptopInformation.pdb
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.csproj.AssemblyReference.cache
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.AssemblyInfoInputs.cache
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.AssemblyInfo.cs
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.csproj.CoreCompileInputs.cache
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.dll
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\ref\LaptopInformation.dll
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.pdb
+D:\InheritanceInCsharp\laptopinformation\obj\Debug\net5.0\LaptopInformation.genruntimeconfig.cache
