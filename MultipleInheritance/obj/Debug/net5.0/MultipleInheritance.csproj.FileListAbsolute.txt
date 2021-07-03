@@ -1,0 +1,16 @@
+D:\InheritanceInCsharp\multipleinheritance\bin\Debug\net5.0\MultipleInheritance.exe
+D:\InheritanceInCsharp\multipleinheritance\bin\Debug\net5.0\MultipleInheritance.deps.json
+D:\InheritanceInCsharp\multipleinheritance\bin\Debug\net5.0\MultipleInheritance.runtimeconfig.json
+D:\InheritanceInCsharp\multipleinheritance\bin\Debug\net5.0\MultipleInheritance.runtimeconfig.dev.json
+D:\InheritanceInCsharp\multipleinheritance\bin\Debug\net5.0\MultipleInheritance.dll
+D:\InheritanceInCsharp\multipleinheritance\bin\Debug\net5.0\ref\MultipleInheritance.dll
+D:\InheritanceInCsharp\multipleinheritance\bin\Debug\net5.0\MultipleInheritance.pdb
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.csproj.AssemblyReference.cache
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.AssemblyInfoInputs.cache
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.AssemblyInfo.cs
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.dll
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\ref\MultipleInheritance.dll
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.pdb
+D:\InheritanceInCsharp\multipleinheritance\obj\Debug\net5.0\MultipleInheritance.genruntimeconfig.cache
