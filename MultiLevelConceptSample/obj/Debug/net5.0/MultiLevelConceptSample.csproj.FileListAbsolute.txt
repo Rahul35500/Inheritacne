@@ -1,0 +1,16 @@
+D:\InheritanceInCsharp\MultiLevelConceptSample\bin\Debug\net5.0\MultiLevelConceptSample.exe
+D:\InheritanceInCsharp\MultiLevelConceptSample\bin\Debug\net5.0\MultiLevelConceptSample.deps.json
+D:\InheritanceInCsharp\MultiLevelConceptSample\bin\Debug\net5.0\MultiLevelConceptSample.runtimeconfig.json
+D:\InheritanceInCsharp\MultiLevelConceptSample\bin\Debug\net5.0\MultiLevelConceptSample.runtimeconfig.dev.json
+D:\InheritanceInCsharp\MultiLevelConceptSample\bin\Debug\net5.0\MultiLevelConceptSample.dll
+D:\InheritanceInCsharp\MultiLevelConceptSample\bin\Debug\net5.0\ref\MultiLevelConceptSample.dll
+D:\InheritanceInCsharp\MultiLevelConceptSample\bin\Debug\net5.0\MultiLevelConceptSample.pdb
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.csproj.AssemblyReference.cache
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.AssemblyInfoInputs.cache
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.AssemblyInfo.cs
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.csproj.CoreCompileInputs.cache
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.dll
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\ref\MultiLevelConceptSample.dll
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.pdb
+D:\InheritanceInCsharp\MultiLevelConceptSample\obj\Debug\net5.0\MultiLevelConceptSample.genruntimeconfig.cache
