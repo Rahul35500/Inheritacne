@@ -1,0 +1,16 @@
+D:\InheritanceInCsharp\calculator\bin\Debug\net5.0\Calculator.exe
+D:\InheritanceInCsharp\calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\InheritanceInCsharp\calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\InheritanceInCsharp\calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\InheritanceInCsharp\calculator\bin\Debug\net5.0\Calculator.dll
+D:\InheritanceInCsharp\calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\InheritanceInCsharp\calculator\bin\Debug\net5.0\Calculator.pdb
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.dll
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.pdb
+D:\InheritanceInCsharp\calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
